@@ -5,6 +5,9 @@ function resta(x, y) {
   // 10, 5 ---> 5
   // 5, 5 ---> 0
   // Tu código:
+  return x-y
 }
+console.log(resta(10,9))
+console.log(resta(10,10))
 
 module.exports = resta;
