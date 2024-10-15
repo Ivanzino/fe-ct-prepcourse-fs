@@ -7,5 +7,4 @@ function combinarNombres(nombre, apellido) {
   return nombre + " " + apellido
 }
 console.log(combinarNombres("Soy", "Henry"))
-
 module.exports = combinarNombres;

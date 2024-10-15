@@ -7,8 +7,6 @@ function multiplica(x, y) {
   // Tu código:
   return x * y
 }
- console.log(multiplica(20,2))
- console.log(multiplica(10,2))
-
-
+console.log(multiplica(20,2))
+console.log(multiplica(10,2))
 module.exports = multiplica;

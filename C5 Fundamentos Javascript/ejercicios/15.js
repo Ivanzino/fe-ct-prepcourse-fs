@@ -8,8 +8,6 @@ function esPar(num) {
   // Tu código:
   return num % 2== 0
 }
-
 console.log(esPar(14))
 console.log(esPar(13))
-
 module.exports = esPar;

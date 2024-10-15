@@ -9,5 +9,4 @@ function obtenerResto(x, y) {
 }
 console.log(obtenerResto(10,5))
 console.log(obtenerResto(21,5))
-
 module.exports = obtenerResto;

@@ -9,5 +9,4 @@ function suma(x, y) {
 }
 console.log(suma(10,10))
 console.log(suma(-10,10))
-
 module.exports = suma; 

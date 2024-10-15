@@ -14,5 +14,4 @@ console.log(esNuloOIndefinido(null));       // true
 console.log(esNuloOIndefinido(undefined));    // true
 console.log(esNuloOIndefinido(22));
 console.log(esNuloOIndefinido("texto"));
-
 module.exports = esNuloOIndefinido;

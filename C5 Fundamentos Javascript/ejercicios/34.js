@@ -1,5 +1,4 @@
 // ⛔️ Recuerda que debes utilizar el objeto global "Math".
-
 function redondearNumero(num) {
    // La función recibe un argumento llamado num el cual es un numero.
    // Debes redondear "num" al entero más próximo y retornarlo.
@@ -11,5 +10,4 @@ function redondearNumero(num) {
 }
 console.log(redondearNumero(1.5))
 console.log(redondearNumero(0.1))
-
 module.exports = redondearNumero;

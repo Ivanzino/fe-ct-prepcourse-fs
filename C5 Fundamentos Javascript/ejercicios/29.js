@@ -9,5 +9,4 @@ function areaDelTriangulo(base, altura) {
 }
 console.log(areaDelTriangulo(10,5))
 console.log(areaDelTriangulo(0,10))
-
 module.exports = areaDelTriangulo;

@@ -9,5 +9,4 @@ function divide(x, y) {
 }
 console.log(divide(10,5))
 console.log(divide(15,5))
-
 module.exports = divide;

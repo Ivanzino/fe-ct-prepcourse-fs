@@ -10,5 +10,4 @@ function esImpar(num) {
 }
 console.log(esImpar(13))
 console.log(esImpar(66))
-
 module.exports = esImpar;

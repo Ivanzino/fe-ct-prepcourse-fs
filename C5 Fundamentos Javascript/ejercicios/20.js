@@ -9,5 +9,4 @@ function resta(x, y) {
 }
 console.log(resta(10,9))
 console.log(resta(10,10))
-
 module.exports = resta;

@@ -9,5 +9,4 @@ function obtenerAreaRectangulo(alto, ancho) {
 }
 console.log(obtenerAreaRectangulo(2,2))
 console.log(obtenerAreaRectangulo(0,2))
-
 module.exports = obtenerAreaRectangulo;

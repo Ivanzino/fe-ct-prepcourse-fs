@@ -6,7 +6,5 @@ function obtenerSaludo(nombre) {
   // Tu código:
   return "Hola " + nombre + "!"
 }
-
 console.log(obtenerSaludo("Martin"))
-
 module.exports = obtenerSaludo;

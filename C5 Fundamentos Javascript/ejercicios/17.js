@@ -15,10 +15,7 @@ function esPositivo(num) {
     return false
   }
 }
-
 console.log(esPositivo(98))
 console.log(esPositivo(-98))
 console.log(esPositivo(0))
-
-
 module.exports = esPositivo;

@@ -23,7 +23,4 @@ console.log(esVocal("o"))
 console.log(esVocal("u"))
 console.log(esVocal("n"))
 console.log(esVocal("aveces si"))
-
-
-
 module.exports = esVocal;

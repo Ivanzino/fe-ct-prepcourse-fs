@@ -1,5 +1,4 @@
 // ⛔️ Recuerda que debes utilizar el objeto global "Math".
-
 function elevarAlCubo(num) {
   // La función recibe un argumento llamado num el cual es un numero.
   // Debes Retorna el valor de "num" elevado al cubo.
@@ -11,5 +10,4 @@ function elevarAlCubo(num) {
 }
 console.log(elevarAlCubo(3))
 console.log(elevarAlCubo(0))
-
 module.exports = elevarAlCubo;

@@ -10,5 +10,4 @@ function menosQueNoventa(num) {
 }
 console.log(menosQueNoventa(33))
 console.log(menosQueNoventa(100))
-
 module.exports = menosQueNoventa;
